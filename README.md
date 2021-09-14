@@ -1,20 +1,16 @@
 # 仓库介绍
-The template of course repository
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SCU-CS/Collection-Course-Template)
-![GitHub issues](https://img.shields.io/github/issues/SCU-CS/Collection-Course-Template)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.Collection-Course-Template)
+专业选修的介绍仓库
+
+![GitHub repo size](https://img.shields.io/github/repo-size/SCU-CS/Professional-Electives-Collection)
+![GitHub issues](https://img.shields.io/github/issues/SCU-CS/Professional-Electives-Collection)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.Professional-Electives-Collection)
 [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/SCU-CS/Contributors)
 
-> 创建之后，需要手动改上面几个链接 主要就是把 `Collection-Course-Template` 改成当前仓库名就好了。
-
-结构设计图
-
-![architecture](images/architecture.png)
-
-课程增减等需要改动侧边栏的操作，需要改文件 `docsify.d/SideBar.md`
-
-图片放在 **images** 文件夹下
+现记录课程
+- [人工智能导论](courses/AIntro.md)
+- [互联网下视角下的创新创业实践](courses/inno-internet.md)
+- [GPU通用并行计算（双语）](courses/GPU-parallel.md)
 
 ## 免责
 
