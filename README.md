@@ -11,6 +11,7 @@
 - [人工智能导论](courses/AIntro.md)
 - [互联网下视角下的创新创业实践](courses/inno-internet.md)
 - [GPU通用并行计算（双语）](courses/GPU-parallel.md)
+- [Python程序设计](courses/Programming-in-Python.md)
 
 ## 免责
 
