@@ -12,7 +12,7 @@
 - [互联网下视角下的创新创业实践](courses/inno-internet.md)
 - [GPU通用并行计算（双语）](courses/GPU-parallel.md)
 - [Python程序设计](courses/Programming-in-Python.md)
-
+- [计算思维](courses/Innovative-Thinking-in-CS.md)
 ## 免责
 
 ***商用禁止*** 
