@@ -1,3 +1,8 @@
 - [首页](README.md)
-- 课程涵盖
-  - [demo](courses/demo-course.md)
+- [人工智能导论](courses/AIntro.md)
+- [互联网下视角下的创新创业实践](courses/inno-internet.md)
+- [GPU通用并行计算（双语）](courses/GPU-parallel.md)
+- [Python程序设计](courses/Programming-in-Python.md)
+- [计算思维](courses/Innovative-Thinking-in-CS.md)
+- [跨界论道](courses/Logos-Cross-Disciplines:humanities-viewed-from-Sciences.md)
+- [数值计算 数学跨专](courses/numerical-cal.md)

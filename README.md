@@ -13,6 +13,8 @@
 - [GPU通用并行计算（双语）](courses/GPU-parallel.md)
 - [Python程序设计](courses/Programming-in-Python.md)
 - [计算思维](courses/Innovative-Thinking-in-CS.md)
+- [跨界论道](courses/Logos-Cross-Disciplines:humanities-viewed-from-Sciences.md)
+- [数值计算 数学跨专](courses/numerical-cal.md)
 ## 免责
 
 ***商用禁止*** 
