@@ -15,6 +15,10 @@
 - [计算思维](courses/Innovative-Thinking-in-CS.md)
 - [跨界论道](courses/Logos-Cross-Disciplines:humanities-viewed-from-Sciences.md)
 - [数值计算 数学跨专](courses/numerical-cal.md)
+- [数字图像处理](courses/Digital-Image-Processing.md)
+- [物联网信息服务](courses/Internet-of-Things-and-Information-Service.md)
+- [程序设计竞赛训练](courses/Programming-Contest-Training.md)
+- [大学生职业生涯规划](courses/Career-planning-for-college-students.md)
 ## 免责
 
 ***商用禁止*** 
